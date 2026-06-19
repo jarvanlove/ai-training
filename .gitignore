@@ -1,0 +1,11 @@
+# Ignore large binary files that exceed GitHub limits
+*.onnx
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
